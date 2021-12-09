@@ -1,3 +1,3 @@
-# reactapi
+# Paiza
 
 - ![paiza](./images/KadaiPaiza.png)
