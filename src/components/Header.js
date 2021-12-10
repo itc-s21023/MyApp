@@ -1,3 +1,4 @@
+// タイトルのプロップスを受け取るコンポーネント //
 import React from "react";
 
 const Header = (props) => {
